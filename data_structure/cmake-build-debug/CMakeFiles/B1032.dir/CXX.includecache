@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C/code/data_structure/PAT/B1032.cpp
+stdio.h
+D:/C/code/data_structure/PAT/stdio.h
+math.h
+D:/C/code/data_structure/PAT/math.h
+stdlib.h
+D:/C/code/data_structure/PAT/stdlib.h
+

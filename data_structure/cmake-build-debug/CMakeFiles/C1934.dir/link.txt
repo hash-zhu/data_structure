@@ -1,0 +1,3 @@
+"D:\C\CLion\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\C1934.dir/objects.a
+D:\C\CLion\MinGw\mingw64\bin\ar.exe cr CMakeFiles\C1934.dir/objects.a @CMakeFiles\C1934.dir\objects1.rsp
+D:\C\CLion\MinGw\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\C1934.dir/objects.a -Wl,--no-whole-archive -o C1934.exe -Wl,--out-implib,libC1934.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\C1934.dir\linklibs.rsp
